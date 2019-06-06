@@ -33,9 +33,9 @@
         }
     }
 
-echo "Podaj promien: ";
-$handle = fopen ("php://stdin","r");
-$promien = fgets($handle);
+    echo "Podaj promien: ";
+    $handle = fopen ("php://stdin","r");
+    $promien = fgets($handle);
 
-okrag((int)$promien);
+    okrag((int)$promien);
 ?>
