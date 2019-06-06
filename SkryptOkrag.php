@@ -6,7 +6,7 @@
     function  okrag($promien)
     {
         /**
-         * @var pix stosunek rozpatrywanych połozeń znaków na konsoli, który jest prawie równy dwa
+         * @var int stosunek rozpatrywanych połozeń znaków na konsoli, który jest prawie równy dwa
          */
         $pixel = 2;
 
